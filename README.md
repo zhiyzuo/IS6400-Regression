@@ -1,5 +1,6 @@
 # CityU IS6400 Week 6 to Week 8 Materials
 1. Week 6 Regresion for Predictive Analytics
+    - Lecture slides: [LINK](https://github.com/zhiyzuo/IS6400-Regression/raw/main/Week-6-Regresion/IS6400%20Week%206.pptx)
     - Lecture notebook: [LINK](https://github.com/zhiyzuo/IS6400-Regression/blob/main/Week-6-Regresion/IS6400-2122B-CityU-IS-Week-6-Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhiyzuo/IS6400-Regression/blob/main/Week-6-Regresion/IS6400-2122B-CityU-IS-Week-6-Regression.ipynb)
     - In-Class exercise solution: [LINK](https://github.com/zhiyzuo/IS6400-Regression/blob/main/Week-6-Regresion/IS6400-2122B-CityU-IS-Week-6-Regression-Solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhiyzuo/IS6400-Regression/blob/main/Week-6-Regresion/IS6400-2122B-CityU-IS-Week-6-Regression-Solution.ipynb)
 2. Week 7 Time Series: Smoothing
